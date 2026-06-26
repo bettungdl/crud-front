@@ -11,7 +11,7 @@
 
 This project is a basic full-stack platform built with **Vue.js** on the frontend and **Laravel** on the backend. Its goal is to provide a secure and scalable foundation for user management with role-based access, multilingual support, and documented APIs.
 
-## Frontend Features
+## [Frontend Features](https://github.com/bettungdl/crud-front)
 
 The frontend application is developed in **Vue.js** and includes the following core features:
 
@@ -23,7 +23,7 @@ The frontend application is developed in **Vue.js** and includes the following c
 
 The frontend must communicate with the backend by consuming the authentication and user management endpoints, including secure login and user creation with roles.
 
-## Backend Features
+## [Backend Features](https://github.com/bettungdl/crud-front)
 
 The backend is developed in **Laravel** and provides the APIs required by the Vue.js frontend.
 
