@@ -23,7 +23,7 @@ The frontend application is developed in **Vue.js** and includes the following c
 
 The frontend must communicate with the backend by consuming the authentication and user management endpoints, including secure login and user creation with roles.
 
-## [Backend Features](https://github.com/bettungdl/crud-front)
+## [Backend Features](https://github.com/bettungdl/crud-api)
 
 The backend is developed in **Laravel** and provides the APIs required by the Vue.js frontend.
 
